@@ -1,5 +1,11 @@
 # Random user icon generator
 
+<img src="https://fer-uig.glitch.me?uuid=1" alt="user-icon" />
+<img src="https://fer-uig.glitch.me?uuid=2" alt="user-icon" />
+<img src="https://fer-uig.glitch.me?uuid=3" alt="user-icon" />
+
+
+
 To get one random user icon just use the live site URL inside of an HTML image tag
 
 ```
